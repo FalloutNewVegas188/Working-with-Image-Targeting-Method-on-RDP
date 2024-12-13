@@ -1,0 +1,1 @@
+Image Targeting Method example
